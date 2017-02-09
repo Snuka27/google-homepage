@@ -17,6 +17,15 @@
   height: 45px;
 }
 
+#voicesearch {
+    position: absolute;
+    top:0;
+    left: 280px;
+    right: 0;
+    bottom: 0;
+
+}
+
 .top-nav {
   display: inline-block;
   text-align: right;
@@ -111,10 +120,6 @@ background-color: black;
   font-size: 13px;
   color: #555555;
   padding: 12px 12px 12px 25px;
-}
-
-#footer a:hover {
-  text-decoration: underline;
 }
 
 .footerleft li {
